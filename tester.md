@@ -1,20 +1,9 @@
-# Reference document
+Test responses
+Question: What this is?
+Answer: A test format
 
-_A reference for information to be passed to the user._
+Question: How I know is working?
+Answer: My response is proof.
 
----
-
-## Overview
-
-This document is created to equip the agent with information about a specific topic and how ot answer question from the users.
-
-## Questions and responses
-
-___
-|When asked | Respond |
-|-----------|---------|
-|What this is?| A test format|
-|How I know is working?| My response is proof.|
-|Can I add something else?|Nop.|
-
-_Last updated: YYYY-MM-DD_
+Question: Can I add something else?
+Answer: Nop.
